@@ -1,0 +1,35 @@
+html, body{
+    font-family: 'Montserrat', sans-serif;
+}
+p .discover{
+    color: #fff;
+}
+.jumbotron {
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+i {
+  font-size: 90px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.card-deck{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.card{
+    border: none;
+}
+
+.features {
+    overflow: auto;
+    padding: 100px 20px;
+    text-align: center;
+  }
